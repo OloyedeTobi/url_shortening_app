@@ -1,4 +1,4 @@
-import '../Styles/Navbar.css';
+import '../Styles/Navbar.scss';
 export const Navbar: React.FC = () =>{
     return(
         <div className="nav-container">
